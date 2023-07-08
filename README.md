@@ -1,6 +1,6 @@
 # My-AI-idea
 This repository contains an idea of my AI and how it could be used.
-## ## Summary:
+## ## Summary :
 I have a few AI ideas namely Natasha, Jarvis, and AVA
 ## Natasha:
 It is my personal AI which helps to track health and also calculate potential illness and develops a chart of diet to improve health and recommends healthy habits to have a better life and stress management. Also, it filters spam calls and also decides how necessary a call to me to attend it or not.
